@@ -31,3 +31,37 @@ npm install react-native-star-rating --save
 ```
 
 ### How to use
+
+The app is very simple it contains 4 screens 
+
+**HomeScreen** 
+
+which simply gives a brief info about what the app is for. 
+
+<img src='Screenshots/homepage.jpg' width="265" >
+
+
+**RecomGenreScreen**
+
+Where you can choose the genre you want to watch.
+
+![](https://media.giphy.com/media/Y8uLRnzHjfHAEYyjXS/giphy.gif)
+
+**GenreResults**
+
+The results obtained from our genre recommendation function
+
+![](https://media.giphy.com/media/HiCgRUEvmbjTtb4kuI/giphy.gif)
+
+**MovieScreen**
+
+Contains the movie info as well as `similar to this` button which provides the user with movies similar to this movie/
+
+![](https://media.giphy.com/media/AKaBURiT9Nk4aPy72B/giphy.gif)
+
+
+## Built with
+
+* Python 3.7.2
+* Flask 1.1.2
+* react-native 0.63.4
