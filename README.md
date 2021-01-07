@@ -42,6 +42,7 @@ which simply gives a brief info about what the app is for.
 
 <img src='Screenshots/homepage.jpg' width="265" >
 
+___
 
 **RecomGenreScreen**
 
@@ -49,11 +50,15 @@ Where you can choose the genre you want to watch.
 
 ![](https://media.giphy.com/media/Y8uLRnzHjfHAEYyjXS/giphy.gif)
 
+___
+
 **GenreResults**
 
 The results obtained from our genre recommendation function
 
 ![](https://media.giphy.com/media/HiCgRUEvmbjTtb4kuI/giphy.gif)
+
+___
 
 **MovieScreen**
 
