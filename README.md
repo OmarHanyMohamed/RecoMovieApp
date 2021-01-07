@@ -12,13 +12,14 @@ For more information you can visit [API Docs](https://developers.themoviedb.org/
 
 **for the recommendation system you'll need some libraries such as :** 
 
+As it's not the best practice to to have my virtualenv directory inside my git repository, so I used pip freeze to get the packages I need into a requirements.txt file which is above.
+
+All what you have to do to get those requirments is to run this command:
+
+``` 
+pip install -r requirements.txt
 ```
-pip install numpy
-pip install pandas
-pip install scikit-learn
-pip install nltk
-pip install tmdbsimple
-```
+
 **for the app you'll need :** 
 
 ```
