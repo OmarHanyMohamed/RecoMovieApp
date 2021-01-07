@@ -65,3 +65,12 @@ Contains the movie info as well as `similar to this` button which provides the u
 * Python 3.7.2
 * Flask 1.1.2
 * react-native 0.63.4
+
+## Source for the dataset
+
+[The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=keywords.csv)
+
+## Notes
+
+* I used only a portion of the dataset due to lack of computing power. 
+* This app was created to combine both my React Native knowledge and Machine Learning. 
