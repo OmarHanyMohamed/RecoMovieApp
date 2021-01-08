@@ -19,7 +19,7 @@ All what you have to do to get those requirments is to run this command:
 ``` 
 pip install -r requirements.txt
 ```
-you can find the recommendation system I created here with a detailed explaination.  
+you can find the recommendation system I created here with a detailed explaination [here](https://github.com/OmarHanyMohamed/Content-Based-Recommendation-System) .  
 
 **for the app you'll need :** 
 
